@@ -46,8 +46,11 @@ https://github.com/Naveed-Aslam786/EmployeeAttendanceSystem
 ## Project Author
 
 **Muhammad Naveed**
+
 **Talha Abdul Rahman**
-**Saadullah**  
+
+**Saadullah**
+
 BS Computer Science  
 Department of Computer Science  
 The Islamia University of Bahawalpur
